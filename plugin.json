@@ -1,0 +1,8 @@
+{
+  "languageId": "mmd",
+  "displayName": "Mermaid diagram",
+  "url": "https://iodide-project.github.io/iodide-mermaid-plugin/index.js",
+  "module": "mermaidPlugin",
+  "evaluator": "evaluateMermaid",
+  "pluginType": "language"
+}
