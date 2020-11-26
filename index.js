@@ -1,4 +1,4 @@
-const MERMAID = 'https://unpkg.com/mermaid@8.0.0/dist/mermaid.min.js'
+const MERMAID = 'https://unpkg.com/mermaid@latest/dist/mermaid.min.js'
 
 const loadResource = url => new Promise((resolve) => {
   const head = document.getElementsByTagName('head')[0];
